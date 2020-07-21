@@ -16,7 +16,7 @@
 	"main": "./app",
 	"dependencies": {
 		"colors": "0.6.2",
-		"lodash": "4.17.15",
+		"lodash": "4.17.19",
 		"watch": "0.11.0",
 		"uglify-js": "3.10.0"
 	},
